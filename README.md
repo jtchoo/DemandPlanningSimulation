@@ -63,6 +63,8 @@ The objective is to understand how a **critical plant disruption** affects:
 
 <img width="927" height="596" alt="Dashboard_Snapshot" src="https://github.com/user-attachments/assets/ef0b8b0d-67aa-4818-91ba-58fb455bf27e" />
 
+[Dashboard.xlsx](https://github.com/user-attachments/files/23215045/Dashboard.xlsx)
+
 ---
 
 ## 📁 Repository Structure
