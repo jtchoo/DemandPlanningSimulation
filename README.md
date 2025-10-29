@@ -1,6 +1,4 @@
-# DemandPlanningSimulation
-
-# 🚗 Global EV Allocation Optimization  
+# 🚗 Demand Planning Simulation
 **Impact Analysis of Fremont Production Disruption on Lead Time, Cost & Customer Fulfillment**
 
 ---
@@ -61,24 +59,39 @@ The objective is to understand how a **critical plant disruption** affects:
 
 ---
 
-## 🗺 Visual Insights Included
+## 🗺 Dashboard Snapshot
 
-✅ Supply chain risk exposure  
-✅ Regional fulfillment imbalance  
-✅ Lead-time degradation visualization  
-✅ Shipping cost by plant  
-✅ Customer preference heatmap  
-✅ Plant utilization shifts under disruption  
-✅ Allocation mix (where each region gets vehicles from)
-
-All visuals completed in Excel using:
-
-- PivotTables
-- Conditional formatting
-- Executive KPI tiles  
-- Scenario slicers
+<img width="927" height="596" alt="Dashboard_Snapshot" src="https://github.com/user-attachments/assets/ef0b8b0d-67aa-4818-91ba-58fb455bf27e" />
 
 ---
 
 ## 📁 Repository Structure
+
+    .
+    ├── notebooks
+    │   ├── 01_synthetic_data2.ipynb
+    │   └── 02_Allocator2.ipynb
+    │ 
+    ├── data
+    │   └── colors.csv
+    │   └── models.csv
+    │   └── trims.csv
+    │   └── transit_time.csv
+    │   └── regional_demand.csv
+    │   └── vehicle_production.csv
+    │   └── regions.csv
+    │   └── plants.csv
+    │ 
+    ├── result
+    │   └── allocation_result2.csv
+    │ 
+    ├── dashboard
+    │   └── Dashboard.xlsx
+    │   └── Dashboard Snapshot.png
+    │ 
+    ├── README.md
+
+---
+
+
 
