@@ -89,7 +89,7 @@ The objective is to understand how a **critical plant disruption** affects:
     │ 
     ├── dashboard
     │   └── Dashboard.xlsx
-    │   └── Dashboard Snapshot.png
+    │   └── Dashboard_Snapshot.png
     │ 
     ├── README.md
 
